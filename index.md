@@ -8,7 +8,7 @@
 
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
----
+
 
 I know things  
 That I shouldn't  
@@ -37,7 +37,7 @@ I should
 
 [![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")
 
----
+
 
 it’s complexities draw me in  
 it’s a puzzle  
